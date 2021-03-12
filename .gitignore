@@ -1,0 +1,8 @@
+*.pkl
+*.png
+*.hdf5
+dump/
+__pycache__
+.DS_Store
+.vscode/
+cache
